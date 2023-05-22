@@ -1,0 +1,3 @@
+.Net Notes
+
+# EF Core
